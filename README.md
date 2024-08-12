@@ -9,7 +9,11 @@ The goal of this project was to create a dashboard that provides a clear and con
 <img width="694" alt="sssdff" src="https://github.com/user-attachments/assets/728be5f2-2e68-4cf4-bcca-04dab2403c33">
 
 
+
 Key Components of the Dashboard 
+
+
+
 Actual Total Sales: This metric shows the total sales achieved by the organization. For this project, the actual total sales amounted to $5.2 million.
 Total Sales Target: This represents the sales target set for the organization. The target for this project was $5.4 million.
 Variance and Variance Percentage: These metrics show the difference between the actual sales and the target sales. The variance was -$152,000, with a variance percentage of -2.83%. 4
